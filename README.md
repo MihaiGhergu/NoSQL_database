@@ -1,2 +1,2 @@
 # NoSQL_database
-Program that simulates a NoSQL database.
+Java program that simulates a NoSQL database.
